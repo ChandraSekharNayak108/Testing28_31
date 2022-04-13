@@ -1,0 +1,91 @@
+python introduction_2:-
+
+Features of python:-
+
+1.simple and easy to learn:-
+
+*.python is a simple programming lang.when we read python program,we can fell like reading english statement.
+
+*.The syntaxes(rules)are very simple.
+
+*.When compared with other languages,we can write programs with very less number of lines.Hence python is more readability and simplicity.
+
+*. We can reduce developement and cost of the project.
+
+2.Freeware and Open source:-
+
+*. We can use python software without any licence and it is freeware.
+
+*. Its source code is open ,so that we can customize based on our requirement.
+
+*. python software org, is a charity.
+
+3.High level programming language.
+
+*.Python is high level programming lang.and hence it is programmer friendly lang.Being a programmer we are not required to concentrate low level activities like memory management and security.
+
+4.platform independent and Portability:-
+
+*.Once we write a python program,it can run on ant platform without rewriting once again. Internally PVM(python vertual machine) is responsible to convert into machine understable form.
+
+*.Python programs are portable that is we can migrate from one platform to another platform very easily.Python programs will provide same result on any platform.
+
+
+5.Dynamically type:-
+
+In python we are not required to declare type for variables.Whenever we are assinging the value,based on value,type will be allocated automatically.hence python is considered as dynamically typed lang.
+
+But java and c etc. are statically typed languages coz we have to provide type at the begining only.
+
+6.Both prodcedure oriented(scripting) and object oriented:-
+
+Python lang. support both prodcedure oriented(like C,pascal etc) and object oriented(like c++,java) features,Hence er can get benefits of both like secutity and resuability etc.
+
+7.Extensive Libarary:-
+
+Python has a rich inbulit library.
+Being a programmer we can use this library directly and use as per the requirement.
+
+Note:- Now a days atleast 60k library are exits in python
+
+
+  Limitations of python
+
+ 1.Not using for mobile application.
+ 2.Not using for Bank application and Telecom application
+
+
+ Flavors of python:-
+
+ 1.CPython:-
+ It is the standard flavor of python, it can used to work with C lang. application.
+
+ 2.Jython or JPython: java
+
+ 3.IronPython: Dot net
+
+ 4.RubyPython:- Ruby platform
+
+ 5.AnacondaPython:- Datascience and Data analysis
+
+ 6.PyPy: The main adv. of PyPy is performace will ve improced coz JIT complier is avaliable inside PVM.
+
+
+Python version:-
+
+python 1.0v introduced in jan 1994
+python 2.0v introduced in Oct 2000
+python 3.0v introduced in dec 2008
+
+current version:- python3 -------3.9.0
+				  python2 --------2.9.4
+
+
+Note:- But in the industry we can use python3.6 and python 2.7
+
+
+
+
+
+
+

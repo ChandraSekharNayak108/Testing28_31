@@ -1,0 +1,55 @@
+              Python Language Fundamentals.
+
+ introduction:-
+
+ 1.Python is a general purpose high level programming language.
+
+ 2.pytyhon was developed by Guido van Rossam in 1989,while working at National Research Institute at Netherland.he was used two lang c++ and perl then he was invented python lang.
+
+ 3.But officially python was made available to public in 1991.The official DOB of python is : Feb 20th 1991
+
+4.The name python was selected from the TV show "The complete Monty python's circus"which is broadcasted in BBC from 1969 to 1974.
+
+eg_1:- To print:- HelloWorld
+
+1.java:-
+
+public class HelloWorld
+{
+	p s v main(String[]args)
+	{
+		SOP("Hello world")
+	}
+}
+
+2.C:-
+
+#include<stdio.h>
+void main()
+{
+	print("Hello world")
+}
+
+3.python:-
+
+print("hello world")
+
+where we can use Python:-
+
+We can use everywhere.The most common important application areas are
+
+1.For developing Desktop Applications.
+2.For developing web Applications.
+3.For developing database applications.
+4.For Network programming.
+5.For developing games.
+6.For Data science and Data Analysis applications.
+7.For machine learning.
+8.For developing AI(Artificial Intelligence) applications.
+9.Fo IOT(Internet of Things)
+10.NN(neural networking)
+
+
+Note:- Internally Google and Youtube use python coding.
+		Nasa and network stock exchange application developed by python.
+		Top s/w companies like Google,microsoft,IBM,Yahoo using python.

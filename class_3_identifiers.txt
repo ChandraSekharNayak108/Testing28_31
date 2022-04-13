@@ -1,0 +1,77 @@
+Identifiers:-
+
+A name in python program is called indentifiers.
+it can be class name or function name or module name or variable name.
+
+a = 10
+
+Note:-a is variable and 'a' is assigning for 10 as identifiers.
+
+Rules to define identifiers in python:-
+
+1.The only allowed char. in python are
+
+* alphabet symbol(either lower can or upper case)
+* digits(0 to 9)
+* underscore symbol(_)
+
+2.Identifier should not starts with digit.
+
+hi45 = 7890 (correct)
+45hi = 7890	(incorrect)
+
+3.Identifiers are case sensitive becoz python labguage is case sensitive lang.
+
+>>> total = 10
+>>> print(TOTAL)
+Traceback (most recent call last):
+  File "<pyshell#10>", line 1, in <module>
+    print(TOTAL)
+NameError: name 'TOTAL' is not defined
+>>> print(total)
+10
+>>> TOTAL = 999
+>>> print(TOTAL)
+999
+>>> 
+
+
+
+Identifier:-
+
+1.Alphabet symbols(either upper and lower)
+
+2.If identifier is start with underscore(_) then it indicates it is private. 
+
+3.Indentifier should not start with Digits.
+
+4.Indentifier are case sensitive.
+
+5.we cann't use reserved words as identifiers.
+ex:- def = 10(incorrect)
+
+6.Dollor ($) symbol is not allowed in python.
+
+
+Note:-
+
+1. x = variable
+2._x = protected variable
+3.__x = private variable
+4.___x = magic variabale(is not used)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
